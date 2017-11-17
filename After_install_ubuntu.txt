@@ -1,13 +1,16 @@
-°²×°±ØÒªµÄÃüÁî
+å®‰è£…å¿…è¦çš„å‘½ä»¤
 sudo apt install <>
 vim python3 geany chromium-browser...
 
-¸üĞÂÔ´£¨°¢ÀïÔÆ£©
+æ›´æ–°æºï¼ˆé˜¿é‡Œäº‘ï¼‰
 sudo vim /etc/apt/source.list
 sudo apt-get update
 sudo apt-get upgrade
 
-»»Ö÷Ìâ
+source:
+http://www.linuxidc.com/Linux/2017-01/139458.htm
+
+æ¢ä¸»é¢˜
 1. Install unity-tweak-tool
 sudo apt install unity-tweak-tool
 2. Install theme called Flatabulous
@@ -18,16 +21,17 @@ sudo apt-get install flatabulous-theme
 sduo add-apt-repository ppa:noobslab/icons
 sudo apt-get update
 sudo apt-get install ultra-flat-icons
-4. ´ò¿ªunity-tweak-toolÈí¼ş£¬ĞŞ¸ÄÖ÷ÌâÎªflatabulousÍ¼±êÎªultra-flat
+4. æ‰“å¼€unity-tweak-toolè½¯ä»¶ï¼Œä¿®æ”¹ä¸»é¢˜ä¸ºflatabulouså›¾æ ‡ä¸ºultra-flat
 
-Ğ¶ÔØLibreOffice
+å¸è½½LibreOffice
 sudo apt remove libreoffice-common
-°²×°ÍøÒ×ÔÆÒôÀÖ¡¢ËÑ¹·ÊäÈë·¨¡¢wpsOffice
-ÏÂÔØÏàÓ¦µÄdeb°ü
+å®‰è£…ç½‘æ˜“äº‘éŸ³ä¹ã€æœç‹—è¾“å…¥æ³•ã€wpsOffice
+ä¸‹è½½ç›¸åº”çš„debåŒ…
 sudo dpkg -i <>
 sudo apt install -f
 
-µ÷ÕûÖĞÎÄÊäÈë
+è°ƒæ•´ä¸­æ–‡è¾“å…¥
 sudo apt install fcitx
-language supportÖĞÏÂÔØÖĞÎÄ°ü£¬×îµÍ¶ËÑ¡Ôñfcitx
-ÔÚText EntryÖĞ¼ÓÈësougou pinyin
+language supportä¸­ä¸‹è½½ä¸­æ–‡åŒ…ï¼Œæœ€ä½ç«¯é€‰æ‹©fcitx
+åœ¨Text Entryä¸­åŠ å…¥sougou pinyin
+
