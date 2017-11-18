@@ -8,7 +8,7 @@ sudo apt-get update
 sudo apt-get upgrade
 
 source:
-http://www.linuxidc.com/Linux/2017-01/139458.htm
+http://blog.csdn.net/fengyuzhiren/article/details/54844870
 
 换主题
 1. Install unity-tweak-tool
@@ -18,7 +18,7 @@ sudo add-apt-repository ppa:noobslab/themes
 sudo apt-get update
 sudo apt-get install flatabulous-theme
 3. Install some icons from this theme
-sduo add-apt-repository ppa:noobslab/icons
+sudo add-apt-repository ppa:noobslab/icons
 sudo apt-get update
 sudo apt-get install ultra-flat-icons
 4. 打开unity-tweak-tool软件，修改主题为flatabulous图标为ultra-flat
