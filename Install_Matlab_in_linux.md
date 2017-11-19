@@ -2,12 +2,12 @@
 Matlab R2016b for linux
 下载地址：https://pan.baidu.com/s/1chCYD4   密码: qhgk
 
-###### 下载好之后，会有三个文件：
+下载好之后，会有三个文件：
     Matlab 2016b Linux64 Crack.rar
     R2016b_glnxa64_dvd1.iso
     R2016b_glnxa64_dvd2.iso
 
-###### 挂载iso文件(先将上述三个文件放在 ~ 目录下）：
+挂载iso文件(先将上述三个文件放在 ~ 目录下）：
     cd ~
     mkdir matalb
     sudo mount -t auto -o loop R2016_glnxa64_dvd1.iso matlab/
@@ -24,7 +24,7 @@ Matlab R2016b for linux
 
 然后在提示插入dvd2的地方单机确定即可。
 
-###### 安装完成之后，取消 iso 挂载：
+安装完成之后，取消 iso 挂载：
     cd ~
     umount matlab/
 自行删除安装包以及文件夹
