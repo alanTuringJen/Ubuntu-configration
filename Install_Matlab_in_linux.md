@@ -13,10 +13,12 @@ Matlab R2016b for linux
     sudo mount -t auto -o loop R2016_glnxa64_dvd1.iso matlab/
 挂载成功后，会多一个盘
 然后：
+
     cd matlab/
     sudo ./install
 
 安装到 80percent 左右时，会提示插入dvd2
+
     cd ~
     sudo mount -t auto -o loop R2016_glnxa64_dvd2.iso matlab/
 
