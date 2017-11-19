@@ -1,2 +1,1 @@
-# Ubuntu-configration
-This is my operation of config of Ubuntu.
+# Some configration of using Ubuntu 
