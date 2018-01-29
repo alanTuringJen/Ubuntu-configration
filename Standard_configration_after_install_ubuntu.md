@@ -11,23 +11,23 @@
 source:
 http://blog.csdn.net/fengyuzhiren/article/details/54844870
 
-###### 换主题
+###### Change theme and icon
 1.Install unity-tweak-tool
 
         sudo apt install unity-tweak-tool
-2. Install theme called Flatabulous 
+2. Install Flatabulous theme
 
         sudo add-apt-repository ppa:noobslab/themes
         sudo apt-get update
         sudo apt-get install flatabulous-theme
 
-3. Install some icons from this theme（主题）
+3. Install some icons
     
         sudo add-apt-repository ppa:noobslab/icons
         sudo apt-get update
         sudo apt-get install ultra-flat-icons
 
-4. 打开unity-tweak-tool软件，修改主题为flatabulous图标为ultra-flat
+4. Open unity-tweak-tool, then change theme to flatabulous and icon to ultra-flat.
 
 ###### 卸载LibreOffice
         sudo apt remove libreoffice-common
