@@ -34,7 +34,7 @@ From: http://blog.csdn.net/fengyuzhiren/article/details/54844870
         sudo apt-get install flatabulous-theme
 
 3. Install some icons
-    
+   
         sudo add-apt-repository ppa:noobslab/icons
         sudo apt-get update
         sudo apt-get install ultra-flat-icons
@@ -42,6 +42,7 @@ From: http://blog.csdn.net/fengyuzhiren/article/details/54844870
 4. Open unity-tweak-tool, then change theme to flatabulous and icon to ultra-flat.
 
 ###### 卸载LibreOffice
+
         sudo apt remove libreoffice-common
 安装网易云音乐、搜狗输入法、wpsOffice
 下载相应的deb包
