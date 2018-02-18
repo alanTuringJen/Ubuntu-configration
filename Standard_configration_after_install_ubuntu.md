@@ -9,7 +9,8 @@
         sudo apt-get upgrade
 
 source:
-From: http://blog.csdn.net/fengyuzhiren/article/details/54844870
+From: http://blog.csdn.net/fengyuzhiren/article/details/54844870  清华源
+From: http://blog.csdn.net/mashuai720/article/details/78666334    阿里云源
 
         # deb cdrom:[Ubuntu 16.04 LTS _Xenial Xerus_ - Release amd64 (20160420.1)]/ xenial main restricted
         deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu/ xenial main restricted
